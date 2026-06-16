@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Generated outputs from the notebook (saved plots / data / results)
+*_fit.png
+*_fit.txt
+spectra_results_*.txt
+summary_pos_vs_fwhm_*.png
+endmembers_*.txt
+weights_*.txt
